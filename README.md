@@ -1,5 +1,4 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 
 # Sathish Kumar A S
 
@@ -370,8 +369,7 @@ Perf Tests  ██░░░░░░░░░░░░░░░░░░░░�
 
 | 📧 Email | 💼 LinkedIn | 🐙 GitHub | 📍 Location |
 |:---:|:---:|:---:|:---:|
-| [assathish.30@gmail.com](mailto:assathish.30@gmail.com) | [sathishkumar-a-s](https://linkedin.com/in/sathishkumar-a-s/) | [assathishkumar30](https://github.com/assathishkumar30) | Coimbatore, Tamil Nadu, India |
-| | | | 📞 +91 98432 19883 |
+| [assathish.30@gmail.com](mailto:assathish.30@gmail.com) | [sathishkumar-a-s](https://linkedin.com/in/sathishkumar-a-s/) | [SathishQASelenium](https://github.com/SathishQASelenium) | Coimbatore, Tamil Nadu, India |
 
 <br>
 
